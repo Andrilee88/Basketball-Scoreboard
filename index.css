@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    align-items: center;                                            
+}
+
+.container {
+    background-color: #1b244a;
+    width: 575px;
+    height: 385px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.score {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    width: 155px;
+    height: 120px;
+    background-color: #0a0001;
+    color: #f94f6d;
+    font-size: 90px;
+    align-content: center;
+    margin: 20px 0 ;
+    
+}
+
+button {
+    background: white;
+    margin: 5px 10px;
+    padding: 3px 6px;
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.reset {
+    background: white;
+    width: 5px 10px;
+    padding: 5px 10px;
+}
