@@ -1,2 +1,2 @@
 # Basketball-Scoreboard
-Solo Project Scrimba 
+Solo Project Scrimba - Frontend Developers Carrer path
