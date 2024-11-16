@@ -12,7 +12,7 @@ body {
     text-align: center;
 }
 
-.score {
+.score-home {
     font-family: 'Cursed Timer ULiL', sans-serif;
     width: 155px;
     height: 120px;
@@ -20,8 +20,18 @@ body {
     color: #f94f6d;
     font-size: 90px;
     align-content: center;
-    margin: 20px 0 ;
-    
+    margin: 20px 0 ; 
+}
+
+.score-guest {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    width: 155px;
+    height: 120px;
+    background-color: #0a0001;
+    color: yellow;
+    font-size: 90px;
+    align-content: center;
+    margin: 20px 0 ; 
 }
 
 button {
